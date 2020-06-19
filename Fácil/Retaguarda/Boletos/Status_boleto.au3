@@ -13,7 +13,7 @@
 HotKeySet("z", "lancar_boletos")
 HotKeySet("x", "sair")
 Global $tela = "Sistema Fácil Retaguarda - Versão: 5.9.1.0  - Build: 5.9.1.0"
-Global $cliente = 8
+Global $cliente = 1655
 Global $quantidade_parcelas = 5
 Global $valor_parcela = 1
 

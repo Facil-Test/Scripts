@@ -12,8 +12,8 @@
 HotKeySet("z", "devolucao")
 HotKeySet("x", "sair")
 Global $tela = "Sistema Fácil Retaguarda - Versão: 5.9.1.0  - Build: 5.9.1.0"
-Global $cliente = 2
-Global $id_produto = 4100
+Global $cliente = 1655
+Global $id_produto = 6605
 Global $funcionario = 1
 Global $quantidade_devolucao = 2
 
